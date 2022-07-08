@@ -25,3 +25,16 @@ Selected Game : [Unequal Length Mazes](https://erich-friedman.github.io/puzzle/u
 
 
 ## [Project 2](P2)
+
+### Natural Language Processing
+
+For NLP problems, the aim is to process textual data, employing diverse techniques to transform them into
+appropriate datasets that can then be addressed using supervised learning algorithms. An initial exploratory
+data analysis should be carried out (class distribution, word distribution per class based on TF-IDF, and so on).
+Different pre-processing and feature engineering techniques should be tried out. The employed machine
+learning algorithms should be tested and compared (performance on the test set, confusion matrix, precision,
+recall, accuracy, F1 measure, time spent to train/test the models).
+At least 3 machine learning algorithms should be employed (Naïve Bayes, Decision Trees, Neural Networks,
+K-NN, SVM, …), matching them with the different ways of generating the dataset. 
+
+Selected Dataset to Process: [Emotions](https://www.kaggle.com/datasets/anonymous1972/emotions)
